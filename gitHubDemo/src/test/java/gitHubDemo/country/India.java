@@ -7,5 +7,6 @@ public class India {
 		System.out.println("India is fastest growing country.");
 		System.out.println("There are 27 States in india.");
 		System.out.println("GDP Ranking in world is 6th. ");
+		//its a comment in master.
 	}
 }
