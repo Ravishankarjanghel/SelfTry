@@ -8,9 +8,11 @@ public class India {
 		System.out.println("There are 27 States in india.");
 		System.out.println("GDP Ranking in world is 6th. ");
 
+		//its comment in child 2.
+
+
 		//its comment in child 1.
 
 		//its a comment in master.
-
 	}
 }
