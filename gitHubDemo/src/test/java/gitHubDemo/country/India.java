@@ -14,5 +14,7 @@ public class India {
 		//its comment in child 1.
 
 		//its a comment in master.
+		System.out.println("What Happened.");
+		System.out.println("hello.");
 	}
 }
